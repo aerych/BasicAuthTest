@@ -81,6 +81,7 @@
 		5DAF7F621A63503F006B3FC8 /* BasicAuthTest */ = {
 			isa = PBXGroup;
 			children = (
+				5DAF7F891A63504B006B3FC8 /* networking */,
 				5DAF7F671A63503F006B3FC8 /* AppDelegate.h */,
 				5DAF7F681A63503F006B3FC8 /* AppDelegate.m */,
 				5DAF7F6A1A63503F006B3FC8 /* ViewController.h */,
@@ -117,6 +118,13 @@
 				5DAF7F7E1A635040006B3FC8 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5DAF7F891A63504B006B3FC8 /* networking */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = networking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
